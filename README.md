@@ -11,6 +11,6 @@ numbers and prices of each hot beverage item are listed below:
 | 3     | COFFEE  | 100                 |
 | 4     | MOCHA   | 120                 |
 
-
+The source code is named as **"main.asm"** under the repository. Feel free to check it out✌️
 
    
